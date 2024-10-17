@@ -1,4 +1,4 @@
-# Notes App
+# 📝Notes App
 
 A simple and intuitive React application that allows users to create, update, and delete notes. This app leverages functional components and hooks to manage the state and behavior of the notes.
 
